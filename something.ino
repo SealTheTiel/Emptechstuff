@@ -4,7 +4,8 @@
  * 601-800		YELLOW	2
  * 801-1000		GREEN		2.5
  * 1001-1023	NONE		
-*/	
+ * PLS FORGIVE ME FOR SYNTAX ERRORS
+ */	
 
 const int RedLED = 3;
 const int BlueLED = 4;
